@@ -1,9 +1,5 @@
 package AlgorithimDesign;
 
-//Sara Nikoui 400149076
-//Fatemieh Nikkhah 400149075
-//Pouria Hosseini Dokht 400149019
-
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
